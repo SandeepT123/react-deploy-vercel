@@ -28,7 +28,7 @@ const App = () => {
           top: `${position.y}px`,
           border: "1px solid gray",
           borderRadius: "50%",
-          transition: "all 0.5s ease-in-out",
+          transition: "all 2s ease-in-out",
         }}
       />
     </div>
